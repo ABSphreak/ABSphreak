@@ -5,6 +5,21 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊
 
 <div align="center">
+     _________
+    / ======= \
+   / __________\
+  | ___________ |
+  | | -       | |
+  | |         | |
+  | |_________| |________________________
+  \=____________/   Abhinav Sharma       )
+  / """"""""""" \                       /
+ / ::::::::::::: \                  =D-'
+(_________________)
+</div>
+
+
+<div align="center">
   <i>Follow me:</i><br>
   <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
