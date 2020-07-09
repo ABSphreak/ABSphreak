@@ -4,7 +4,7 @@ Please feel free to clone projects and raise issues if you think something could
 
 Happy Coding! 😊
 
-<div align="center">
+<div align="center"><pre><code>
      _________
     / ======= \
    / __________\
@@ -16,7 +16,7 @@ Happy Coding! 😊
   / """"""""""" \                       /
  / ::::::::::::: \                  =D-'
 (_________________)
-</div>
+</code></pre></div>
 
 
 <div align="center">
