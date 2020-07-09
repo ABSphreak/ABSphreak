@@ -4,15 +4,9 @@ Please feel free to clone projects and raise issues if you think something could
 
 Happy Coding! 😊
 
-What I use:<br>
-<img src="/svgs/HTML5.svg" align="center" width="30">
-<img src="/svgs/CSS3.svgg" align="center" width="30">
-<img src="/svgs/JavaScript.svg" align="center" width="30">
-<img src="/svgs/Node.js.svg" align="center" width="30">
-<img src="/svgs/AngularJS.svg" align="center" width="30">
-<img src="/svgs/Vue.js.svg" align="center" width="30">
-<img src="/svgs/React.svg" align="center" width="30">
-<img src="/svgs/Gatsby.svg" align="center" width="30">
+_Follow me:_<br>
+[🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b)
+
 <!--
 **ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
