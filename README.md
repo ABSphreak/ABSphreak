@@ -1,12 +1,12 @@
-### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 𝐜𝐨𝐝𝐞𝐫𝐬! 👋
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝐜𝐨𝐝𝐞𝐫𝐬! 👋
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
 Happy Coding! 😊
 
-<div align="center"><pre><code>
+<!-- <div align="center"><pre><code>
 
-</code></pre></div>
+</code></pre></div> -->
 
 
 <div align="center">
