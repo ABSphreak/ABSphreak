@@ -1,7 +1,5 @@
-### 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
-Ｈｅｌｌｏ ｔｈｅｒｅ ｆｅｌｌｏｗ Ｃｏｄｅｒｓ!
-
-You have finally discovered my Github profile , please feel free to clone projects.
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 𝐜𝐨𝐝𝐞𝐫𝐬! 👋
+You have finally discovered my Github profile , please feel free to clone projects and raise issues if you think something could be better.
 
 Happy Coding! 😊
 <!--
