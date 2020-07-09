@@ -5,17 +5,7 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊
 
 <div align="center"><pre><code>
-     _________
-    / ======= \
-   / __________\
-  | ___________ |
-  | | -       | |
-  | |         | |
-  | |_________| |________________________
-  \=____________/   Abhinav Sharma       )
-  / """"""""""" \                       /
- / ::::::::::::: \                  =D-'
-(_________________)
+
 </code></pre></div>
 
 
