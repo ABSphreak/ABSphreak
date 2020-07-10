@@ -17,7 +17,7 @@ Happy Coding! 😊
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ABSphreak&show_icons=true&hide_border=true" alt="ABSphreak's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&show_icons=true&hide_border=true" alt="ABSphreak's Github Stats">
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
