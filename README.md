@@ -7,7 +7,9 @@
 </div>
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything **[here](https://github.com/ABSphreak/ABSphreak/issues/new)**<br>
+or **[email](mailto:absphreak@outlook.com)** me
 
 Happy Coding! 😊
 
@@ -21,7 +23,7 @@ Happy Coding! 😊
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
-<i>Follow me:</i><br>
+<i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
