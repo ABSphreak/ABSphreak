@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
 
@@ -19,7 +19,7 @@ Happy Coding! 😊
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ABSphreak&show_icons=true&hide_border=true" alt="ABSphreak's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&show_icons=true&hide_border=true" alt="ABSphreak's Github Stats">
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
