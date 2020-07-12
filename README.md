@@ -9,17 +9,15 @@
 </div>
 
 <div align="center">
+
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything **[here](https://github.com/ABSphreak/ABSphreak/issues/new)**<br>
-or **[email](mailto:absphreak@outlook.com)** me
+Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
-Happy Coding! 😊
+<i>Happy Coding!</i> 😊
 
 </div>
-<!-- <div align="center"><pre><code>
-
-</code></pre></div> -->
 
 <div align="center">
 
