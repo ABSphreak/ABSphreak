@@ -22,8 +22,8 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="ABSphreak's Github Stats">
-<hr>
 
+---
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me around the web:</i><br>
