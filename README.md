@@ -26,7 +26,7 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 </br>
 </br>
 
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="ABSphreak's Github Stats">
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="ABSphreak's Github Stats"></a>
 
 ---
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
