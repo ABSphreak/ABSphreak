@@ -12,8 +12,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+Ask me anything with <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
